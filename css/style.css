@@ -1,0 +1,123 @@
+h1
+{
+
+ margin: auto;
+   font-family: 'Poppins', sans-serif;
+  color: #888888;
+position: relative;
+  width: 500px;
+
+
+
+}
+.top
+{
+  margin-left: 100px;
+}
+.notbold
+{
+  font-weight: normal;
+}
+
+.middle
+{
+  position: relative;
+  width: 100%;
+}
+p
+{
+  position: relative;
+  margin: 20px auto 50px auto;
+  width: 60%;
+  font-family: 'Poppins', sans-serif;
+  line-height: 2;
+    color: #888888;
+
+}
+
+ .topbox
+{
+  display: inline-block;
+
+position: absolute;
+     height: 200px;
+     width: 300px;
+     top: 60px;
+     left: 350px;
+     right: 350px;
+     padding: 10px;
+     background-color: #ffffff;
+  border-radius: 10px;
+  border-top: 10px solid pink;
+
+}
+ .leftbox
+{
+position: absolute;
+left: 10px;
+top: 200px;
+  display: inline-block;
+
+  padding: 10px;
+  height: 200px;
+  width: 300px;
+  background-color: #ffffff;
+    border-radius: 10px;
+  border-top: 10px solid #8e1d41;
+}
+   .bottombox
+  {
+    display: inline-block;
+    position: absolute;
+    bottom: 70px;;
+    left: 350px;
+    right: 350px;
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    background-color: #ffffff;
+      border-radius: 10px;
+    border-top: 10px solid #dbbf0d;
+
+
+
+  }
+ .rightbox
+  {
+    display: inline-block;
+position: absolute;
+right: 10px;
+top: 200px;
+
+height: 200px;
+width: 300px;
+padding: 10px;
+background-color: #ffffff;
+  border-radius: 10px;
+border-top: 10px solid #ff926b;
+
+
+  }
+.container
+{
+position: relative;
+height: 600px;
+width: 1000px;
+padding: 10px;
+margin: auto;
+}
+body
+{position: relative;
+  background-color: #f0f0f0;
+   font-family: 'Poppins', sans-serif;
+}
+.img-align
+{
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+h5
+{
+  color: #888888;
+}
